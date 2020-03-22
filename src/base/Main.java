@@ -18,7 +18,7 @@ public class Main {
         boolean salir = true;
         
         do {            
-            System.out.println("*********MENU PRINCIPAL*********\n");
+            System.out.println("\n*********MENU PRINCIPAL*********\n");
             System.out.println("1. Realizar scrapping de peliculas e imprimir el resultado en pantalla.)");
             System.out.println("2. Salir del programa.");
             System.out.print("\nIntroduzca su seleccion : ");
