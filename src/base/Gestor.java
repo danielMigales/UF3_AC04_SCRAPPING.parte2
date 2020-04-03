@@ -23,7 +23,8 @@ import org.w3c.dom.DOMImplementation;
 import org.w3c.dom.Text;
 
 /**
- * @author Daniel
+ * @author Daniel Migales Puertas
+ *
  */
 public class Gestor {
 

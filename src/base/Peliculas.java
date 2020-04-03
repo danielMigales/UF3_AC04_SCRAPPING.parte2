@@ -1,11 +1,11 @@
 package base;
 
 /**
- * @author Daniel Migales
+ * @author Daniel Migales Puertas
+ *
  */
-
 public class Peliculas {
-    
+
     String enlace;
     String titulo;
     int posicion;
@@ -42,11 +42,9 @@ public class Peliculas {
 
     @Override
     public String toString() {
-        
+
         String pelicula = "Pelicula " + posicion + ":\n" + "\tURL: " + enlace + "\n" + "\tTitulo: " + titulo;
         return pelicula;
     }
-    
-    
-    
+
 }
